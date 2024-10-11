@@ -1,0 +1,11 @@
+C:\Users\d.kelian\source\repos\colocApp\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\d.kelian\source\repos\colocApp\Common\bin\Debug\net8.0\Common.dll
+C:\Users\d.kelian\source\repos\colocApp\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\d.kelian\source\repos\colocApp\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.kelian\source\repos\colocApp\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\d.kelian\source\repos\colocApp\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\d.kelian\source\repos\colocApp\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\d.kelian\source\repos\colocApp\Common\obj\Debug\net8.0\Common.dll
+C:\Users\d.kelian\source\repos\colocApp\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\d.kelian\source\repos\colocApp\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\d.kelian\source\repos\colocApp\Common\obj\Debug\net8.0\ref\Common.dll
